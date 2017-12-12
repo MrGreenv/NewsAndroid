@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/TTI"
+            android:title="The Times of India" />
+        <item
+            android:id="@+id/TheHindu"
+            android:title="The Hindu"/>
+        <item
+            android:title="CNN"
+            android:id="@+id/CNN"/>
+        <item
+            android:id="@+id/CNBC"
+            android:title="CNBC"/>
+    </group>
+</menu>
